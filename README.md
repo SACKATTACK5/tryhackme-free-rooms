@@ -76,7 +76,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
 - [ ] [TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
-- [ ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [t ] [TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
 - [t ] [TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 - [ t] [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 - [ t] [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
